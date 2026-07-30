@@ -86,3 +86,12 @@ prisma/dev.db-journal
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# ========================
+# AGENT & SCRATCHPADS
+# ========================
+AGENTS.md
+CLAUDE.md
+design.md
+optimization.md
+security.md
