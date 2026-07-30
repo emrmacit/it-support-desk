@@ -2,7 +2,7 @@
 
 A modern, full-stack Internal IT Support & Ticket Management Application built with Next.js 15. This system allows employees to easily create and track IT support tickets, while providing IT staff with a dedicated dashboard to manage, prioritize, and resolve issues efficiently.
 
-**🌐 Canlı Site (Live Demo):** [https://it-support-desk-sooty.vercel.app](https://it-support-desk-sooty.vercel.app)
+**🌐 Live Demo:** [https://it-support-desk-project.vercel.app](https://it-support-desk-project.vercel.app)
 
 ## 🚀 Features
 
